@@ -1,0 +1,23 @@
+.react {
+  margin-left: 40px;
+}
+
+.fab, [class^=devicon-] {
+  font-size: 120px;
+}
+
+.icon {
+  margin: 40px;
+}
+
+.skills {
+  margin-left: 275px;
+}
+
+.moreskills{
+  margin-left: 120px;
+}
+
+h1{
+  text-align: center;
+}
