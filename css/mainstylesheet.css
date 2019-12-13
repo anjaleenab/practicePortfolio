@@ -32,3 +32,19 @@ h1{
 pre > h1 {
   margin-top: 130px;
 }
+
+.introPhoto {
+background-image: url('../img/me.jpg');
+background-size: contain;
+background-repeat: no-repeat;
+width: 500px;
+height: 300px;
+}
+
+.linkedInLink {
+  color: #0e76a8;
+}
+
+.gitHubLink {
+  color: black;
+}
