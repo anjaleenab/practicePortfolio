@@ -41,10 +41,55 @@ width: 500px;
 height: 300px;
 }
 
+.emailLink {
+  color: black;
+  /* margin-top: 10px; */
+}
+
 .linkedInLink {
   color: #0e76a8;
 }
 
 .gitHubLink {
   color: black;
+}
+
+.gitHubLink:hover, .linkedInLink:hover {
+  transform: scale(1.1);
+}
+
+.backgroundIntro {
+  margin-top: 120px;
+}
+
+[class*="js-square"] {
+ color: #f0db4f;
+}
+
+[class*="html5"] {
+ color: #e54d26;
+}
+
+[class*="css3-alt"] {
+ color: #3d8fc6;
+}
+
+[class*="fa-bootstrap"] {
+ color: #59407f;
+}
+
+[class*="fa-php"] {
+ color: #6181b6;
+}
+
+[class*="fa-react"] {
+ color: #61dafb;
+}
+
+[class*="mysql-plain"] {
+ color: #217598;
+}
+
+[class*="jquery-plain"] {
+ color: #0968ac;
 }
