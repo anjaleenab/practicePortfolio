@@ -93,3 +93,21 @@ height: 300px;
 [class*="jquery-plain"] {
  color: #0968ac;
 }
+
+.project {
+  background-color: #a29dd7;
+  width: 230px;
+  height: 300px;
+}
+
+.projImage {
+  margin: 5px auto 0px auto;
+  width: 200px;
+  height: 200px;
+}
+
+.holidaySales {
+background-image: url('../img/hslandingpage.JPG');
+background-repeat: no-repeat;
+background-size: contain;
+}
