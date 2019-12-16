@@ -41,7 +41,7 @@ width: 500px;
 height: 300px;
 }
 
-.emailLink {
+.emailLink, .resume {
   color: black;
   /* margin-top: 10px; */
 }
