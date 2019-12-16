@@ -96,15 +96,14 @@ height: 300px;
 
 .project {
   background-color: #a29dd7;
-  width: 230px;
-  height: 300px;
-  margin: 0px 50px;
+  width: 18rem;
 }
 
 .projImage {
   margin: 5px auto 0px auto;
-  width: 200px;
-  height: 120px;
+  width: 16rem;
+  height: 150px;
+
 }
 
 .holidaySales {
@@ -120,4 +119,24 @@ a > ul {
 a:hover {
   color: none !important;
   text-decoration: none !important;
+}
+
+.oneSize {
+  width: 16rem;
+}
+
+.lionkingmemorymatch {
+background-image: url('../img/memory-match-preview.gif');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.prov {
+background-image: url('../img/provlandingpage.JPG');
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.margin {
+  margin-top: 60px;
 }
