@@ -11,12 +11,13 @@
 }
 
 .skills {
-  margin-left: 275px;
+  margin-left: 340px;
 }
 
 .moreskills{
-  margin-left: 120px;
+  margin-left: 166px;
 }
+
 
 h1{
   text-align: center;
@@ -38,7 +39,7 @@ background-image: url('../img/me.jpg');
 background-size: contain;
 background-repeat: no-repeat;
 width: 500px;
-height: 300px;
+height: 310px;
 }
 
 .emailLink, .resume {
@@ -139,4 +140,8 @@ background-size: contain;
 
 .margin {
   margin-top: 60px;
+}
+
+.aboutMeText {
+  width: 800px;
 }
