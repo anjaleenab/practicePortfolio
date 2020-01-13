@@ -2,10 +2,6 @@
   margin-left: 40px;
 }
 
-.fab, [class^=devicon-] {
-  font-size: 120px;
-}
-
 .icon {
   margin: 40px;
 }
@@ -44,7 +40,7 @@ height: 310px;
 
 .emailLink, .resume {
   color: black;
-  /* margin-top: 10px; */
+  font-size: 30px;
 }
 
 .linkedInLink {
@@ -93,6 +89,10 @@ height: 310px;
 
 [class*="jquery-plain"] {
  color: #0968ac;
+}
+
+.fab, [class^=devicon-] {
+  font-size: 120px;
 }
 
 .project {
@@ -144,4 +144,8 @@ background-size: contain;
 
 .aboutMeText {
   width: 800px;
+}
+
+.bottomLinks {
+  margin-top: 60px;
 }
