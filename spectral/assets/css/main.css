@@ -3976,3 +3976,23 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+
+
+
+
+	.enclosing {
+		display: flex;
+		justify-content: center;
+	}
+
+
+	.imageMe {
+		vertical-align: baseline;
+		background-image: url('../../../img/me.jpg');
+		background-size: contain;
+		background-repeat: no-repeat;
+		width: 300px;
+		height: 300px;
+
+	}
