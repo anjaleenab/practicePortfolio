@@ -3996,3 +3996,9 @@ input, select, textarea {
 		height: 300px;
 
 	}
+
+	.project {
+	position: absolute;
+	top: 25%;
+	left: 9%;
+}
