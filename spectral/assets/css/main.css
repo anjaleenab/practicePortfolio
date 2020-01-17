@@ -2543,7 +2543,6 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
@@ -3961,4 +3960,10 @@ input, select, textarea {
 	position: absolute;
 	top: 25%;
 	left: 9%;
+}
+
+.all-Icons {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
 }
