@@ -31,7 +31,7 @@ pre > h1 {
 }
 
 .introPhoto {
-background-image: url('../spectral/images/me.jpg');
+background-image: url('../img/me.jpg');
 background-size: contain;
 background-repeat: no-repeat;
 width: 500px;
@@ -108,7 +108,7 @@ height: 310px;
 }
 
 .holidaySales {
-background-image: url('../spectral/images/hslandingpage.JPG');
+background-image: url('../img/hslandingpage.JPG');
 background-repeat: no-repeat;
 background-size: contain;
 }
@@ -127,13 +127,13 @@ a:hover {
 }
 
 .lionkingmemorymatch {
-background-image: url('../spectral/images/memory-match-picture.JPG');
+background-image: url('../img/memory-match-preview.gif');
 background-repeat: no-repeat;
 background-size: contain;
 }
 
 .prov {
-background-image: url('../spectral/images/provlandingpage.JPG');
+background-image: url('../img/provlandingpage.JPG');
 background-repeat: no-repeat;
 background-size: contain;
 }
