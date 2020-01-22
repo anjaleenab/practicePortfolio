@@ -3616,7 +3616,6 @@ input, select, textarea {
 				display: block;
 				height: 1.5em;
 				left: 50%;
-				margin: 0 0 0 -0.75em;
 				position: absolute;
 				width: 1.5em;
 			}
@@ -3928,10 +3927,6 @@ input, select, textarea {
 		background-color: #1d242a;
 	}
 
-
-
-
-
 	.enclosing {
 		display: flex;
 		justify-content: center;
@@ -3940,7 +3935,7 @@ input, select, textarea {
 
 	.imageMe {
 		vertical-align: baseline;
-		background-image: url('../../../img/me.jpg');
+		background-image: url('../../images/me.jpg');
 		background-size: contain;
 		background-repeat: no-repeat;
 		width: 300px;
